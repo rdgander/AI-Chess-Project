@@ -1,1 +1,1 @@
-# B351-Final-Project
+# AI-Chess-Project
